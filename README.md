@@ -14,5 +14,14 @@ Soluciones | [![Soluciones | Abrir en Colab](https://colab.research.google.com/a
 
 Capítulo 3 | [![Capítulo 3 | Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rxavier/cpe_ds_scraping/blob/master/02_w/w_03_BeautifulSoup.ipynb)
 Práctico | [![Práctico | Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rxavier/cpe_ds_scraping/blob/master/03_p/p_02_BeautifulSoup.ipynb)
+Soluciones | [![Soluciones | Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rxavier/cpe_ds_scraping/blob/master/03_p/p_02_BeautifulSoup_soluciones.ipynb)
 
 Capítulo 4 | [![Capítulo 4 | Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rxavier/cpe_ds_scraping/blob/master/02_w/w_04_pandas.ipynb)
+
+
+Extras
+-
+
+Descarga programática de archivos | [![Extra 1 | Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rxavier/cpe_ds_scraping/blob/master/02_w/Extras/w_extra_01_descarga_programática.ipynb)
+
+APIs privadas | [![Extra 1 | Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rxavier/cpe_ds_scraping/blob/master/02_w/Extras/w_extra_02_apis_privadas.ipynb)
