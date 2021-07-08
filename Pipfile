@@ -8,6 +8,7 @@ requests = "==2.25.1"
 beautifulsoup4 = "==4.9.3"
 pandas = "==1.2.3"
 html5lib = "==1.1"
+matplotlib = "*"
 
 [dev-packages]
 jupyter = "*"
